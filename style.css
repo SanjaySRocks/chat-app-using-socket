@@ -1,0 +1,18 @@
+#heading{
+margin-top: 50px;
+}
+
+#message__container{
+    height: 400px;
+    overflow: auto;
+}
+
+.message__left{
+    margin-bottom: 10px;
+    word-wrap: break-word;
+}
+
+.message__right{
+    margin-bottom: 10px;
+    word-wrap: break-word;
+}
